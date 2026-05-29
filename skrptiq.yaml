@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "a7702052-2354-479e-8786-d518b11d0388"
+name: "image-briefing"
+display_name: "Image Briefing"
+description: "Generates detailed image briefs for designers or AI image generators from campaign or content context"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-image-briefing"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
