@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "a7702052-2354-479e-8786-d518b11d0388"
+id: "b3d96400-ddd0-491b-b933-55423c9ea828"
 name: "image-briefing"
 display_name: "Image Briefing"
 description: "Generates detailed image briefs for designers or AI image generators from campaign or content context"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
