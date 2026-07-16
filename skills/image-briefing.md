@@ -19,7 +19,7 @@ context_params:
 
 ## Capability
 
-Takes campaign context, content themes, or brand guidelines and produces structured image briefs that can be handed to a designer or fed to an AI image generator. Each brief specifies composition, mood, colour palette, subject matter, and format constraints.
+Takes campaign context, content themes, or brand guidelines and produces structured image briefs that can be handed to a designer or fed to an AI image generator. Each brief specifies composition, mood, color palette, subject matter, and format constraints.
 
 ## When to Use
 
@@ -32,9 +32,9 @@ Takes campaign context, content themes, or brand guidelines and produces structu
 For each requested image:
 
 1. **Subject** — what the image should depict
-2. **Composition** — layout, focal point, framing (e.g. "centred product shot", "lifestyle scene")
+2. **Composition** — layout, focal point, framing (e.g. "centerd product shot", "lifestyle scene")
 3. **Mood and tone** — emotional quality (e.g. "professional but approachable", "bold and urgent")
-4. **Colour palette** — specific colours or palette constraints (e.g. "brand colours only", "warm earth tones")
+4. **Color palette** — specific colors or palette constraints (e.g. "brand colors only", "warm earth tones")
 5. **Format** — dimensions, aspect ratio, file format (e.g. "1080x1080 for Instagram", "16:9 hero banner")
 6. **Text overlay** — any text that should appear on the image, with placement guidance
 7. **Negative constraints** — what the image should NOT include
@@ -42,7 +42,7 @@ For each requested image:
 ## Inputs
 
 - Campaign brief, content plan, or post description
-- Brand guidelines (optional — used to constrain colour and style)
+- Brand guidelines (optional — used to constrain color and style)
 - Target platform (optional — determines format constraints)
 
 ## Outputs
